@@ -2,13 +2,11 @@
 
 <br>
 
-<p align="center"><a href="" target="_blank">Deploy</a></p>
+<p align="center"><a href="https://vanessabrazuna.github.io/calculator/" target="_blank">Deploy</a></p>
 
-<br>
 
 <hr>
 
-<br>
 
 ## Sobre o Projeto
 
