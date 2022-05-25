@@ -8,17 +8,17 @@
 <hr>
 
 
-## Sobre o Projeto
+## About the project
 
 <br>
 
-<p>Projeto de uma calculadora simples, com funcionalidades aritméticas.</p>
+<p>Design of a simple calculator with arithmetic features.</p>
 
-<p>Baseado no canal do Youtube do Gustavo Neitzke sobre assuntos relacionados a JavaScript.</p>
+<p>Inspired by Gustavo Neitzke's project on JavaScript related topics.</p>
 
 <br>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 <br>
 
